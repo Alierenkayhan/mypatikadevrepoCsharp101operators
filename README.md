@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 🌟 About The Project
 
-<p align="center"><img src="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101operators/blob/main/images/variables.png?raw=true" alt="Alierenkayhan" width ="auto" height = "1200px"/></p>
+<p align="center"><img src="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101operators/blob/main/images/operators.png?raw=true" alt="Alierenkayhan" width ="auto" height = "1200px"/></p>
 
 This is my C# 101 Patika Dev work for operators repository.
 
