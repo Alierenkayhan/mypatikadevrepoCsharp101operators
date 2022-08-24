@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101operators/blob/main/images/media/logo/patikadev.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
+<img align="left" src="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables/blob/main/images/media/logo/patikadev.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
     
 # mypatikadevrepoCsharp101operators
 <div align="center">
