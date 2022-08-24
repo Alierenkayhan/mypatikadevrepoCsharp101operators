@@ -164,6 +164,7 @@ Project Link: [https://github.com/Alierenkayhan/mypatikadevrepoCsharp101operator
 * Patika Dev
 * Kodluyoruz
 * https://carbon.now.sh/
+* https://gist.github.com/takekazuomi/10955889
 
 
 <!-- ACKNOWLEDGMENTS -->
